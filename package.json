@@ -23,7 +23,7 @@
     "colors": "~0.6.2",
     "cliff": "0.1.8",
     "flatiron": "~0.3.11",
-    "forever-monitor": "1.2.3",
+    "forever-monitor": "https://github.com/airandfingers/forever-monitor/tarball/master#790e838e",
     "nconf": "~0.6.9",
     "nssocket": "~0.5.1",
     "optimist": "~0.6.0",
